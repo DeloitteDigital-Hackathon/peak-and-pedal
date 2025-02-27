@@ -267,4 +267,13 @@ main .section.basket img {
   height: 20px;
   width: 20px;
   padding-right: 10px;
+<<<<<<< Updated upstream
 }
+=======
+}
+
+.section.basket p {
+  float: left;
+  width: 50%;
+}
+>>>>>>> Stashed changes
