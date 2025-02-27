@@ -269,7 +269,7 @@ main .section.basket img {
   padding-right: 10px;
 }
 
-main .section.basket p {
+.section.basket p {
   float: left;
   width: 50%;
 }
