@@ -268,3 +268,8 @@ main .section.basket img {
   width: 20px;
   padding-right: 10px;
 }
+
+main .section.basket p {
+  float: left;
+  width: 50%;
+}
